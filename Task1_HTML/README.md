@@ -10,4 +10,5 @@
 ## 2. Các thẻ HTML cần chú ý:
 - Thẻ <code>head</code>: chưa các thẻ bao gồm thông tin về trang web, như <code>meta, title,...</code>
 - Thẻ <code>title</code>: khai báo tiêu đề của trang web
+- Thẻ <code>meta</code>: chưa các thuộc tính dữ liệu của trang web như: <code>charset</code>: thông tin về bảng mã sử dụng trong trang web, <code>name</code>,...
 - 
