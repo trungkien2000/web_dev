@@ -4,7 +4,7 @@ Người thực hiện: Trung Kiên
 
 Thời gian thực hiện: 24/3/2022
 
-Demo nhỏ: https://trungkien2000.github.io/web_dev/Task1_HTML/index.html
+Demo: https://trungkien2000.github.io/web_dev/Task1_HTML/index.html
 
 Mục lục:
 
