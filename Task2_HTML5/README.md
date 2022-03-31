@@ -48,6 +48,6 @@ Mục lục:
 - Thẻ <code>audio</code>: dùng để nhúng nội dung âm thanh vào tài liệu HTML, có 3 định dạng được hỗ trợ: MP3, WAV, OGG
 - Thẻ <code>b</code>: in đậm văn bản
 - Thẻ <code>base</code>: chỉ định một URL cơ sở hoặc đích cho các URL tương đối trong tài liệu
-- Thẻ <code>br<code>: chèn 1 dòng trống vào tài liệu
-  Thẻ <code>button</code>: tạo một nút có thể nhấp vào
-  Thẻ <code>canvas</code>: dùng để vẽ đồ họa, thường dùng với các lệnh JavaScript
+- Thẻ <code>br</code>: chèn 1 dòng trống vào tài liệu
+- Thẻ <code>button</code>: tạo một nút có thể nhấp vào
+- Thẻ <code>canvas</code>: dùng để vẽ đồ họa, thường dùng với các lệnh JavaScript
