@@ -40,7 +40,14 @@ Mục lục:
 - Thẻ <code>style</code> được dùng để thêm các định dạng CSS (Cascading style sheet)
 - Tạo danh sách bằng cách dùng thẻ <code>ul</code> (hoặc <code>ol</code>) và <code>li</code> 
 - Thẻ <code>div</code>: dùng để xác định một phần hoặc một bộ phận trong tài liệu HTML, tạo thành 1 container để có thể thêm các CSS, hoặc thao tác với JavaScript nhanh chóng.
-- Thẻ <code>input</code>: dùng để tạo vùng cho người dùng nhập dữ liệu đầu vào. Có nhiều loại thuộc tính input khác nhau <code>buttont, text, password,...</code>
+- Thẻ <code>input</code>: dùng để tạo vùng cho người dùng nhập dữ liệu đầu vào. Có nhiều loại thuộc tính input khác nhau <code>button, text, password,...</code>
 - Thẻ <code>img</code>: dùng để thêm hình ảnh vào tài liệu HTML.
 - Thẻ <code>script</code>: dùng để thêm các lệnh/khối lệnh JavaScript
 - Thẻ <code>table</code>: dùng để tạo bảng, bao gồm thêm các thẻ <code>tr, td, th</code> bên trong.
+- Thẻ <code>area</code>: dùng để xác định một khu vực trong hình ảnh, có thể thực hiện các thao tác trên khu vực đó
+- Thẻ <code>audio</code>: dùng để nhúng nội dung âm thanh vào tài liệu HTML, có 3 định dạng được hỗ trợ: MP3, WAV, OGG
+- Thẻ <code>b</code>: in đậm văn bản
+- Thẻ <code>base</code>: chỉ định một URL cơ sở hoặc đích cho các URL tương đối trong tài liệu
+- Thẻ <code>br<code>: chèn 1 dòng trống vào tài liệu
+  Thẻ <code>button</code>: tạo một nút có thể nhấp vào
+  Thẻ <code>canvas</code>: dùng để vẽ đồ họa, thường dùng với các lệnh JavaScript
